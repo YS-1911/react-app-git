@@ -3,6 +3,7 @@ function App() {
 
   return (
     <>
+    <h2>update</h2>
       <h1 className="hello">hello world</h1>
       <h2>fheriohgh</h2>
     </>
